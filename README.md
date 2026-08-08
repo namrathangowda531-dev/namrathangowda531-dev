@@ -1,5 +1,5 @@
 ## Hi there I'm Namratha 👋
-🎓 CSE Student | 💻 Aspiring Developer
+CSE Student |Aspiring Developer
 
 I like coding, building projects, and learning new things.
 Skills:

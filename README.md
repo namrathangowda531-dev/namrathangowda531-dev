@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi there I'm Namratha 👋
+🎓 CSE Student | 💻 Aspiring Developer
 
-<!--
-**namrathangowda531-dev/namrathangowda531-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like coding, building projects, and learning new things.
+Skills:
+C • C++ • Python • HTML • CSS
+Projects:
+- SentiSphere – Sentiment Analysis
+- Deloitte Data Analytics Job Simulation
+Currently Learning:
+DSA • Git & GitHub • Web Development
